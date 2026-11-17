@@ -184,11 +184,11 @@
   wishBtn.addEventListener('click', () => {
     const blown = wish.classList.toggle('blown');
     if (blown) {
-      wishText.textContent = 'Điều ước đã được gửi đi. Chúc mừng sinh nhật, Thu Huệ.';
+      wishText.textContent = 'Tớ mong điều ước ấy sớm thành sự thật. Sinh nhật vui vẻ nhé, Thu Huệ.';
       wishBtn.textContent = 'Thắp lại nến';
       chime();
     } else {
-      wishText.textContent = 'Ước xong thì thổi nến nhé.';
+      wishText.textContent = 'Ước xong thì thổi nến.';
       wishBtn.textContent = 'Thổi nến';
     }
   });

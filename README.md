@@ -1,6 +1,6 @@
 # Chúc mừng sinh nhật Thu Huệ
 
-Trang web tặng sinh nhật: màn mở quà, bộ 12 ảnh, 5 đoạn phim, lá thư và phần thổi nến, có nhạc nền.
+Trang web Tường làm tặng sinh nhật Thu Huệ: màn mở quà, ảnh, phim ngắn, lá thư và phần thổi nến, có nhạc nền.
 
 HTML/CSS/JS thuần, không cần build. Toàn bộ font, ảnh, video và nhạc nằm trong `assets/`, không gọi dịch vụ bên ngoài. Trang gắn `noindex` để công cụ tìm kiếm không lập chỉ mục.
 
